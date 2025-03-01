@@ -1,4 +1,5 @@
-﻿Console.Write("Contando até dez: 0");
+﻿Console.Clear();
+Console.Write("Contando até dez: 0");
 Thread.Sleep(1000);
 Console.Write (" 1");
 Thread.Sleep(1000);
